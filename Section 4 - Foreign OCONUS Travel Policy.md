@@ -23,3 +23,8 @@ The traveler will prepare and complete an Isolated Personnel Report (ISOPREP) in
 The traveler will have to file a request via the Aircraft and Personnel Automated Clearance System (APACS). APACS is directly accessible by the traveler or may be manually processed according to directorate- and supervisor- specific policies. 
 
 
+### 4.1.5 AMC Flight Availability 
+
+The traveler will check with the Air Mobility Command POC for availability of AMC flights to the TDY destination. In accordance with Army policy, if an AMC flight is available, the traveler must take the AMC flight.
+
+AMC POC:
