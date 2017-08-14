@@ -2,10 +2,10 @@
 
 This section will outline the travel policy for travel within the Contintental United States (CONUS). This policy assumes the traveler is aware of and knows the Defense Travel System (DTS) workflow.
 
-The general workflow is as follows:
+The general policy is as follows:
   1. Traveler is requested to travel by the customer
   2. Traveler emails the project lead for his/her approval (may be done in conjunction with 1.)
-  3. Traveler emails his/her supervisor for approval, with the project lead approval in 3.
+  3. Traveler emails his/her supervisor for approval, with the project lead approval in 2.
   4. Traveler signs DTS orders
   5. Traveler notifies supervisor and project lead of changes if required
  
