@@ -1,6 +1,6 @@
 # Section 2 - CONUS Travel Policy
 
-This section will outline the travel policy for travel within the Contintental United States (CONUS). This policy assumes the traveler is aware of and knows the Defense Travel System (DTS) workflow.
+This section will outline the travel policy for travel within the Continental United States (CONUS). This policy assumes the traveler is aware of and knows the Defense Travel System (DTS) workflow.
 
 The general policy is as follows:
   1. Traveler is requested to travel by the customer
@@ -11,7 +11,7 @@ The general policy is as follows:
  
 ## 2.1 Travel Authorization(s)
  
-Typically the requirement for travel will originate with a customer's project or from an internal requirement. This sectio will treat both situations the same except that in lieu of customer authorization, the traveler may seek approval citing the internal requirement only.
+Typically the requirement for travel will originate with a customer's project or from an internal requirement. This section will treat both situations the same except that in lieu of customer authorization, the traveler may seek approval citing the internal requirement only.
  
 ### 2.1.1 Project Lead Approval
  
@@ -20,7 +20,7 @@ Typically the requirement for travel will originate with a customer's project or
   - Duty location
   - General purpose of travel (e.g., site survey, system implementation, meeting, design review, etc.)
   
-  All travel should derive from a customer project or internal requirement. Obtaining approvel from the project lead ensures that the project is aware of and requested the travel.
+  All travel should derive from a customer project or internal requirement. Obtaining approval from the project lead ensures that the project is aware of and requested the travel.
  
 ### 2.1.2 Supervisor Approval
 
@@ -32,11 +32,11 @@ Prior to signing DTS orders, the traveler will obtain approval from his/her supe
   - Estimated cost
   
  The itinerary information is important for the command to provide personnel accountability and the information will be input into the emergency action center (EAC) travel database by the supervisor as required. Additionally it allows the supervisor to intervene and deny travel which conflicts with other command duties. 
- The estimated cost and daily itinerary allows the supervisor to quickly determine if the proposed travel meets the generual purpose as described in the project lead approval, above.
+ The estimated cost and daily itinerary allows the supervisor to quickly determine if the proposed travel meets the general purpose as described in the project lead approval, above.
  
 ## 2.2 DTS Orders Policy
 
-The traveler will follow the DTS guidelines to create DTS orders. The traveler will not sign the DTS orders prior to obtaining supervisor approval. When DTS orders are signed by the traveler money is obligated, so waiting for supervisor approval ensures both that the suprvisor approves of the travel and also that the supervisor is expecting orders to authorize. 
+The traveler will follow the DTS guidelines to create DTS orders. The traveler will not sign the DTS orders prior to obtaining supervisor approval. When DTS orders are signed by the traveler money is obligated, so waiting for supervisor approval ensures both that the supervisor approves of the travel and also that the supervisor is expecting orders to authorize. 
 
 The traveler may begin, but not sign, DTS orders in order to obtain cost estimate information before supervisor approval. Another valuable tool for cost estimate information is TraX (available from the DTS site).
 
