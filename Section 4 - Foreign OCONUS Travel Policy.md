@@ -27,4 +27,6 @@ The traveler will have to file a request via the Aircraft and Personnel Automate
 
 The traveler will check with the Air Mobility Command POC for availability of AMC flights to the TDY destination. In accordance with Army policy, if an AMC flight is available, the traveler must take the AMC flight.
 
-AMC POC:
+AMC Transportation Office POC: Betty Dubits (betty.dubits@us.army.mil) and Cathrine Keating (cathrine.keating@us.army.mil)
+
+If military flights are not available, the statement, "Transportation contacted-no AMC flights are available" shall be added to the comments section by the traveler.
